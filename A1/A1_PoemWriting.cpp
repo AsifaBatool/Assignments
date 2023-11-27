@@ -11,7 +11,7 @@ void repeated_lines1()
 }
 void repeated_lines2()
 {
-    cout<<"I don’t know how he can catch a lion \n";
+    cout<<"I donâ€™t know how he can catch a lion \n";
     cout<<"But, maybe he will watch Orion! \n";
     cout<<endl;
 
@@ -35,7 +35,7 @@ void stanza4(){
 void stanza5()
 {
     cout<<"He used the cat to catch a dog\n";
-    cout<<"I don’t know where he kept the dog\n";
+    cout<<"I donâ€™t know where he kept the dog\n";
 
 }
 void stanza6()
@@ -88,15 +88,6 @@ int main()
     repeated_lines1();
     stanza8();
     repeated_lines2();
-
-
-
-
-
-
-
-
-
 
   return 0;
 }
